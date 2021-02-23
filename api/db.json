@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "ddsadas",
+      "description": "ffdsfdsdasda",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "This is a great stream",
+      "id": 2
+    },
+    {
+      "title": "My Private Stream",
+      "description": "This is my Private Stream!!!",
+      "id": 3
+    },
+    {
+      "title": "ddddd",
+      "description": "wwwwww",
+      "id": 6
+    },
+    {
+      "title": "Delete Me",
+      "description": "Do You want to delete me?",
+      "googleId": "110103679980177278006",
+      "id": 7
+    }
+  ]
+}
